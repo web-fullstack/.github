@@ -15,18 +15,23 @@ You found a secret! web-fullstack/.github is a ✨special ✨ repository that yo
 
 
 ```code
-@all-contributors please add @xgqfrms for code
-
-```
-
-
-```code
-
+# multi labels
 @all-contributors please add @xgqfrms for infrastructure, tests and code
 
 ```
 
 https://allcontributors.org/docs/en/emoji-key
+
+
+```code
+# single label
+@all-contributors please add @xgqfrms for code
+
+```
+
+![image](https://user-images.githubusercontent.com/7291672/159446932-48cde0d2-c963-4554-9204-3d3027cf5f1f.png)
+
+
 
 
 ## ref
